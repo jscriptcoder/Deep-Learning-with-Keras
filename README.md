@@ -12,13 +12,13 @@ The goal is to provide students with a strong foundation, not just theory, not j
 
 ## What am I going to get from this course?
 
-1. To describe what Deep Learning is in a simple yet accurate way
-2. To explain how deep learning can be used to build predictive models
-3. To distinguish which practical applications can benefit from deep learning
-4. To install and use Python and Keras to build deep learning models
-5. To apply deep learning to solve supervised and unsupervised learning problems involving images, text, sound, time series and tabular data.
-6. To build, train and use fully connected, convolutional and recurrent neural networks
-7. To look at the internals of a deep learning model without intimidation and with the ability to tweak its parameters
-8. To train and run models in the cloud using a GPU
-9. To estimate training costs for large models
-10. To re-use pre-trained models to shortcut training time and cost (transfer learning)
+- To describe what Deep Learning is in a simple yet accurate way
+- To explain how deep learning can be used to build predictive models
+- To distinguish which practical applications can benefit from deep learning
+- To install and use Python and Keras to build deep learning models
+- To apply deep learning to solve supervised and unsupervised learning problems involving images, text, sound, time series and tabular data.
+- To build, train and use fully connected, convolutional and recurrent neural networks
+- To look at the internals of a deep learning model without intimidation and with the ability to tweak its parameters
+- To train and run models in the cloud using a GPU
+- To estimate training costs for large models
+- To re-use pre-trained models to shortcut training time and cost (transfer learning)
