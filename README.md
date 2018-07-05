@@ -22,3 +22,28 @@ The goal is to provide students with a strong foundation, not just theory, not j
 - To train and run models in the cloud using a GPU
 - To estimate training costs for large models
 - To re-use pre-trained models to shortcut training time and cost (transfer learning)
+
+# Course Content
+
+- Welcome to the course!
+  - [x] Introduction
+  - [x] Real world applications of deep learning
+  - [x] Download and install Anaconda
+  - [x] Installation Video Guide
+  - [x] Obtain the code for the course
+  - [x] Course Folder Walkthrough
+  - [x] Your first deep learning model
+
+- Data
+  - [x] Tabular data
+  - [x] Data exploration with Pandas code along
+  - [x] Visual data Exploration
+  - [x] Plotting with Matplotlib
+  - [x] Unstructured Data
+  - [x] Images and Sound in Jupyter
+  - [x] Feature Engineering
+  - [x] Exercise 1
+  - [x] Exercise 2
+  - [x] Exercise 3
+  - [x] Exercise 4
+  - [x] Exercise 5
