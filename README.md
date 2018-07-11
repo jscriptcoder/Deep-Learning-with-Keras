@@ -47,3 +47,38 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 3
   - [x] Exercise 4
   - [x] Exercise 5
+ 
+- Machine Learning
+  - [x] Machine Learning Problems
+  - [x] Supervised Learning
+  - [x] Linear Regression
+  - [x] Cost Function
+  - [x] Cost Function code along
+  - [x] Finding the best model
+  - [x] Linear Regression code along
+  - [x] Evaluating Performance
+  - [x] Evaluating Performance code along
+  - [x] Classification
+  - [x] Classification code along
+  - [x] Overfitting
+  - [x] Cross Validation
+  - [x] Cross Validation code along
+  - [x] Confusion matrix
+  - [x] Confusion Matrix code along
+  - [x] Feature Preprocessing code along
+  - [x] Exercise 1
+  - [x] Exercise 2
+
+- Deep Learning Intro
+  - [x] Deep Learning successes
+  - [x] Neural Networks
+  - [x] Deeper Networks
+  - [x] Neural Networks code along
+  - [x] Multiple Outputs
+  - [x] Multiclass classification code along
+  - [x] Activation Functions
+  - [x] Feed forward
+  - [x] Exercise 1
+  - [x] Exercise 2
+  - [x] Exercise 3
+  - [x] Exercise 4
