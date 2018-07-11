@@ -47,3 +47,61 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 3
   - [x] Exercise 4
   - [x] Exercise 5
+ 
+- Machine Learning
+  - [x] Machine Learning Problems
+  - [x] Supervised Learning
+  - [x] Linear Regression
+  - [x] Cost Function
+  - [x] Cost Function code along
+  - [x] Finding the best model
+  - [x] Linear Regression code along
+  - [x] Evaluating Performance
+  - [x] Evaluating Performance code along
+  - [x] Classification
+  - [x] Classification code along
+  - [x] Overfitting
+  - [x] Cross Validation
+  - [x] Cross Validation code along
+  - [x] Confusion matrix
+  - [x] Confusion Matrix code along
+  - [x] Feature Preprocessing code along
+  - [x] Exercise 1
+  - [x] Exercise 2
+
+- Deep Learning Intro
+  - [x] Deep Learning successes
+  - [x] Neural Networks
+  - [x] Deeper Networks
+  - [x] Neural Networks code along
+  - [x] Multiple Outputs
+  - [x] Multiclass classification code along
+  - [x] Activation Functions
+  - [x] Feed forward
+  - [x] Exercise 1
+  - [x] Exercise 2
+  - [x] Exercise 3
+  - [x] Exercise 4
+
+- Gradient Descent
+  - [x] Derivatives and Gradient
+  - [x] Backpropagation intuition
+  - [x] Chain Rule
+  - [x] Derivative Calculation
+  - [x] Fully Connected Backpropagation
+  - [x] Matrix Notation
+  - [x] Numpy Arrays code along
+  - [x] Learning Rate
+  - [x] Learning Rate code along
+  - [x] Gradient Descent
+  - [x] Gradient Descent code along
+  - [x] Exponentially Weighted Moving Average (EWMA)
+  - [x] Optimizers
+  - [x] Optimizers code along
+  - [x] Initialization code along
+  - [x] Inner Layers Visualization code along
+  - [x] Exercise 1
+  - [ ] Exercise 2
+  - [ ] Exercise 3
+  - [ ] Exercise 4
+  - [ ] Tensorboard
