@@ -82,3 +82,26 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 2
   - [x] Exercise 3
   - [x] Exercise 4
+
+- Gradient Descent
+  - [x] Derivatives and Gradient
+  - [x] Backpropagation intuition
+  - [x] Chain Rule
+  - [x] Derivative Calculation
+  - [x] Fully Connected Backpropagation
+  - [x] Matrix Notation
+  - [x] Numpy Arrays code along
+  - [x] Learning Rate
+  - [x] Learning Rate code along
+  - [x] Gradient Descent
+  - [x] Gradient Descent code along
+  - [x] Exponentially Weighted Moving Average (EWMA)
+  - [x] Optimizers
+  - [x] Optimizers code along
+  - [x] Initialization code along
+  - [x] Inner Layers Visualization code along
+  - [x] Exercise 1
+  - [ ] Exercise 2
+  - [ ] Exercise 3
+  - [ ] Exercise 4
+  - [ ] Tensorboard
