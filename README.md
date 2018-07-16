@@ -120,3 +120,20 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Rolling Windows code along
   - [x] Exercise 1
   - [x] Exercise 2
+
+- Improving performance
+  - [ ] Learning curves
+  - [ ] Learning curves code along
+  - [ ] Batch Normalization
+  - [ ] Batch Normalization code along
+  - [ ] Dropout
+  - [ ] Dropout and Regularization code along
+  - [ ] Data Augmentation
+  - [ ] Continuous Learning
+  - [ ] Image Generator code along
+  - [ ] Hyperparameter search
+  - [ ] Embeddings
+  - [ ] Embeddings code along
+  - [ ] Movies Reviews Sentiment Analysis code along
+  - [ ] Exercise 1
+  - [ ] Exercise 2
