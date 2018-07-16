@@ -105,3 +105,18 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 3
   - [x] Exercise 4
   - [x] Tensorboard
+
+- Cloud GPUs
+  - [x] Floyd GPU notebook setup
+
+- Recurrent Neural Networks
+  - [x] Time Series
+  - [x] Sequence problems
+  - [x] Vanilla RNN
+  - [x] LSTM and GRU
+  - [x] Time Series Forecasting code along
+  - [x] Time Series Forecasting with LSTM code along
+  - [x] Rolling Windows
+  - [x] Rolling Windows code along
+  - [x] Exercise 1
+  - [x] Exercise 2
