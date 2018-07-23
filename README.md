@@ -32,9 +32,9 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Installation Video Guide
   - [x] Obtain the code for the course
   - [x] Course Folder Walkthrough
-  - [x] Your first deep learning model
+  - [x] [Your first deep learning model](course/1%20First%20Deep%20Learning%20Model.ipynb)
 
-- Data
+- [Data](course/2%20Data.ipynb)
   - [x] Tabular data
   - [x] Data exploration with Pandas code along
   - [x] Visual data Exploration
@@ -48,7 +48,7 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 4
   - [x] Exercise 5
  
-- Machine Learning
+- [Machine Learning](course/3%20Machine%20Learning.ipynb)
   - [x] Machine Learning Problems
   - [x] Supervised Learning
   - [x] Linear Regression
@@ -69,7 +69,7 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 1
   - [x] Exercise 2
 
-- Deep Learning Intro
+- [Deep Learning Intro](course/4%20Deep%20Learning%20Intro.ipynb)
   - [x] Deep Learning successes
   - [x] Neural Networks
   - [x] Deeper Networks
@@ -83,7 +83,7 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 3
   - [x] Exercise 4
 
-- Gradient Descent
+- [Gradient Descent](course/5%20Gradient%20Descent.ipynb)
   - [x] Derivatives and Gradient
   - [x] Backpropagation intuition
   - [x] Chain Rule
@@ -106,10 +106,32 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 4
   - [x] Tensorboard
 
+- [Convolutional Neural Networks](course/6%20Convolutional%20Neural%20Networks.ipynb)
+  - [x] Features from Pixels
+  - [x] MNIST Classification
+  - [x] MNIST Classification code along
+  - [x] Beyond Pixels
+  - [x] Images as Tensors
+  - [x] Tensor Math code along
+  - [x] Convolution in 1D
+  - [x] Convolution in 1D code along
+  - [x] Convolution in 2D
+  - [x] Image Filters code along
+  - [x] Convolutional Layers
+  - [x] Convolutional Layers code along
+  - [x] Pooling Layers
+  - [x] Pooling Layers code along
+  - [x] Convolutional Neural Networks
+  - [x] Convolutional Neural Networks code along
+  - [x] Weights in CNNs
+  - [x] Beyond Images
+  - [x] Exercise 1
+  - [x] Exercise 2
+
 - Cloud GPUs
   - [x] Floyd GPU notebook setup
 
-- Recurrent Neural Networks
+- [Recurrent Neural Networks](course/8%20Recurrent%20Neural%20Networks.ipynb)
   - [x] Time Series
   - [x] Sequence problems
   - [x] Vanilla RNN
@@ -121,7 +143,7 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Exercise 1
   - [x] Exercise 2
 
-- Improving performance
+- [Improving performance](course/9%20Improving%20performance.ipynb)
   - [x] Learning curves
   - [x] Learning curves code along
   - [x] Batch Normalization
