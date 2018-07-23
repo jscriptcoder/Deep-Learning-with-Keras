@@ -137,4 +137,4 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Movies Reviews Sentiment Analysis code along
   - [x] Exercise 1
   - [x] Exercise 2
-  - [ ] Exercise 3
+  - [x] Exercise 3
