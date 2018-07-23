@@ -136,4 +136,5 @@ The goal is to provide students with a strong foundation, not just theory, not j
   - [x] Embeddings code along
   - [x] Movies Reviews Sentiment Analysis code along
   - [x] Exercise 1
-  - [ ] Exercise 2
+  - [x] Exercise 2
+  - [ ] Exercise 3
