@@ -1,4 +1,4 @@
-# Deep Learning with Python and Keras
+# Deep Learning with Python and Keras [[certificate](certificate.pdf)]
 
 This course is designed to provide a complete introduction to Deep Learning. It is aimed at beginners and intermediate programmers and data scientists who are familiar with Python and want to understand and apply Deep Learning techniques to a variety of problems.
 
